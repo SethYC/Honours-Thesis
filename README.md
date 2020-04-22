@@ -1,4 +1,4 @@
-# Honour-s-Thesis-DTD-Functional-Connectivity
+# Honour's Thesis: DTD Functional Connectivity
 
 The scripts were used to process and analyze the fMRI data of a Developmental Topographic Disorientation (DTD) group and a control group, outputting connectivity measures to be statistically compared later. See my thesis (link to be posted later) for a detailed description of its use.
 
